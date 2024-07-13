@@ -1,0 +1,8 @@
+/* *
+{
+  background-color: none !important;
+} */
+:root, [data-theme] {
+  background-color: oklch(0.94 0.01 0) !important;
+  color: oklch(0.22 0 0) !important;
+}
